@@ -1,4 +1,4 @@
-# Bubbles Particle (Simple Particle)
+# Bubbles Particle 
 Bu proje, JavaScript kullanılarak oluşturulan eğlenceli bir "bubbles particle" (baloncuk parçacıkları) animasyonu içerir. Web sayfasında hareket eden baloncuklar, estetik bir görsellik sunar ve projeyi daha ilgi çekici hale getirir.
 
 # Özellikler
